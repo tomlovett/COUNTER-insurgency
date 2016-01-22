@@ -1,0 +1,9 @@
+MVT {
+	visibility: 0-100 // percent known to CI, direct related to chance of capture
+	CI/insurgent affect: 0-100
+	affect malleability: 1-11
+	home_sector:
+	specialty: War, Governance, Economy, Logistics, Recruiter/Trainer, Propagandist, Recon
+	effectiveness: 1-100
+	experience
+}
