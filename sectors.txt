@@ -1,0 +1,24 @@
+Visible:
+Force Security
+CI conflict
+Police Competence
+Auxiliary Competence
+
+Modifiably Visible:
+Insurgent economy
+Insurgent permanent presence
+Insurgent transient presence
+
+Completely hidden:
+Insurgent MVT presence
+
+adjusting opacity by sector stats? there will be a direct connection anyway, some more than others?
+
+Bleeding:
+  Iterate sectors calculating all relationships, then apply. The greater the disparity the greater the effect. The greater the disparity the greater the violence/conflict.
+
+Intelligence: 
+  New outpost: intelligence bonus for sector
+  Permanent outpost: intelligence for sector
+  Base: intelligence of adjacent
+  Major base: intelligence for self and neighbors, intelligence bonus for two factors

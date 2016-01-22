@@ -2,8 +2,11 @@ MVT {
 	visibility: 0-100 // percent known to CI, direct related to chance of capture
 	CI/insurgent affect: 0-100
 	affect malleability: 1-11
-	home_sector:
+	home_sector: // greatest effect there
 	specialty: War, Governance, Economy, Logistics, Recruiter/Trainer, Propagandist, Recon
 	effectiveness: 1-100
-	experience
+	experience: [level up to HVT]
 }
+
+MVT.move -> compare every option (including stay) from 0-100; roll(100), decide that way; clockwise assign numbers after scanning all of them; random * random
+alert their presence on a similar probability scale. assault - drone is highest-percentage if they’re there; more troops -> greater success probability; keep it simple

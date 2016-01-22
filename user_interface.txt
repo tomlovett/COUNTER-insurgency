@@ -2,16 +2,27 @@ Visibile Metrics:
 - Conflict: Violence, Insurgent Control, CI Control, Force Security
 - Civilian: Gov't Control, Civilian affect for CI, Civilian affect for Local Gov't, Civilian affect for Insurgency, Economy, Law & Order, Quality of Life, Essential Services, General Stability?
 - Insurgency: Known/Estimated Permanent Presence, Known/Est. Transient Presence, Known/Est. Activity, Known/Est. Economy, Intelligence
-- CI: Morale, Discipline, Police Competence, Police Compliance, Local Competence, Local Compliance
+- CI: Morale, Discipline, Competence, Police Competence, Police Compliance, Local Competence, Local Compliance
 
 Actionables:
-- Special Forces: Establish Outpost, Train Local Forces, Local Compliance/Coercion, Search-And-Destroy, Gather Intelligence
-- Force Excursion
+- Special Forces: Establish Outpost, Train Local Forces, Local Compliance/Coercion, Search-And-Destroy, Capture, Gather Intelligence
+- Force Excursion: Offensive, Drone Strike
 - Force Benefits: CI Training, Static Recon Equipment, Combat upgrades, Translators
 - Civilian: Quality of Life initiatives, Law Enforcement, Infrastructure, Solicit Local Input
 - Recon: SF reconnaissance, fund Gov't study (different sectors)
 
 Inertia Decisions:
-- Patrol Intent: Local Immersion, Seek Out Contact, Force Protection, Aggression Upon Contact
-- Patrol ratio's
-- Budgeting: balance actionables versus inertia effects
+- Patrol/standby ratio's
+
+Budgeting:
+Actionable:
+- Construct offense/defense, quality of life
+- Subsidize gov't
+
+Inertia
+- Gov't subsidies, Police subsidies, Force upkeep
+
+Commander's Intent:
+- Lobby superiors for: money, troops
+- Patrol Intent: Local Immersion, Seek Contact, Force Protection, Aggression Upon Contact, Insurgent Round-Up
+- Strategic Focus: seek-and-destroy, co-opt insurgents, improve governance, 
